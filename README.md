@@ -1,6 +1,6 @@
 # Balloons_With_Animation_Trick14
 
-**If you want to see a solar system that all its planets orbit the Sun, make sure to check out my code ♥️🌌**
+**If you want to see animated balloons, take a look at my code ♥️🎈**
 
 
 
