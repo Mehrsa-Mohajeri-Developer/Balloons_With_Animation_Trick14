@@ -10,7 +10,7 @@ https://github.com/Mehrsa-Mohajeri-Developer/Balloons_With_Animation_Trick14/ass
 
 - 📆 Created: 2023-10-7
 
-- ✔️ Technologies Used: HTML, CSS, SASS
+- ✔️ Technologies Used: HTML, CSS, SASS, Animation-CSS
 
 - 💥 Role: Front-End
 
